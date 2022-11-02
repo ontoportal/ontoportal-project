@@ -1,4 +1,4 @@
-Ontoportal alliance centralized repository for the management of the ontoportal project (centralized issues, discussions, ...)
+OntoPortal alliance centralized repository for the management of the ontoportal project (centralized issues, discussions, ...)
 
 
 ## Project description
@@ -13,7 +13,7 @@ See https://github.com/orgs/ontoportal/teams
 
 ## Repositories descriptions
 
-* Project management repositories: https://github.com/ontoportal/ontoportal-project, where we centralize our general issues (https://github.com/ontoportal/ontoportal-project/issues) and [discusions](https://github.com/ontoportal/ontoportal-project/discussions. A centralized project board (see https://github.com/orgs/agroportal/projects/2)
+* Project management repositories: on this [repo](https://github.com/ontoportal/ontoportal-project) we centralize our general [issues](https://github.com/ontoportal/ontoportal-project/issues) and [discusions](https://github.com/ontoportal/ontoportal-project/discussions). A centralized [project board](https://github.com/orgs/agroportal/projects/2).
 
 * Code repositories :
 
@@ -33,19 +33,20 @@ See https://github.com/orgs/ontoportal/teams
 
    * Administration command lines / jobs : https://github.com/ontoportal/ncbo_cron
    * See the others here: https://github.com/orgs/ontoportal/repositories?type=all
+   
 ## Our system branches
-     * Master branch (intersection between all the forked version):  <TODO put link>
-     * NCBO branch (Master branch + NCBO specific features):  <TODO put link>
-     * Agroportal branch (Master branch + Agroportal features): <TODO put link>
-     
+   * Master branch (intersection between all the forked version):  <TODO put link>
+   * More branches to come  
+       
 ## Documentation
-See https://ontoportal.github.io/administration/
+See [future index page for documentation]
 
 ## How to contribute
-See https://github.com/ncbo/bioportal-project/blob/master/contributing.md
+For the moment, see BioPortal's: https://github.com/ncbo/bioportal-project/blob/master/contributing.md
 
 ## Papers
 See https://github.com/ontoportal/literature
 
-## Appliances
+## Appliance
 See https://bioportal.bioontology.org/login?redirect=%2Fvirtual_appliance    
+[Explanations to come]
