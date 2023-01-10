@@ -39,7 +39,7 @@ See https://github.com/orgs/ontoportal/teams
    * More branches to come  
        
 ## Documentation
-See [future index page for documentation]
+See https://ontoportal.github.io/administration/
 
 ## How to contribute
 For the moment, see BioPortal's: https://github.com/ncbo/bioportal-project/blob/master/contributing.md
